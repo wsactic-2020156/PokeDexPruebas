@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_defense  49</name>
+   <tag></tag>
+   <elementGuidId>5736bd3a-d763-4d96-80fc-870bf8abaff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show1']/div/div[2]/h3[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>d9790151-80bc-47a4-9163-84f57aad7281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> defense : 49 </value>
+      <webElementGuid>70c900be-22e6-4a5d-8811-2de01009f4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show1&quot;)/div[@class=&quot;show__container&quot;]/div[@class=&quot;content&quot;]/h3[3]</value>
+      <webElementGuid>e9b2c8bb-3772-46f8-bd0c-59682efeed94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show1']/div/div[2]/h3[3]</value>
+      <webElementGuid>70daff5b-a2f6-47a0-b35c-c1c17bf8d279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='defense']/parent::*</value>
+      <webElementGuid>78a94a4a-0af0-4f2f-969b-154840934d57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[3]</value>
+      <webElementGuid>2940df00-b135-4220-b353-083970c3cc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' defense : 49 ' or . = ' defense : 49 ')]</value>
+      <webElementGuid>ab1253e3-b49f-438d-9a93-e0cd8128288b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

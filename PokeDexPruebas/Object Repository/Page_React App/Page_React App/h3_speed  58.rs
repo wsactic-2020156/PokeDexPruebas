@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_speed  58</name>
+   <tag></tag>
+   <elementGuidId>d10ec6c3-ebdb-4260-b676-7b0906879fcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show1']/div/div[2]/h3[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>94677d09-0506-4722-a59d-96df28e7ebdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> speed : 58 </value>
+      <webElementGuid>f1c6e3ac-6df8-4c44-9ff5-2038f199b554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show1&quot;)/div[@class=&quot;show__container&quot;]/div[@class=&quot;content&quot;]/h3[6]</value>
+      <webElementGuid>afe8e78c-87af-4af9-a353-d62aaa59e1af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show1']/div/div[2]/h3[6]</value>
+      <webElementGuid>46c96fb6-0aa7-492b-8823-c97255c4eba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar'])[1]/preceding::h3[1]</value>
+      <webElementGuid>0e29afd1-692e-4530-b11b-830541400b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='speed']/parent::*</value>
+      <webElementGuid>4c69b4b9-5517-49e7-b04c-2cbf05eb2bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[6]</value>
+      <webElementGuid>1d1ff908-b5ca-4012-87f4-7cdfb0b79021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' speed : 58 ' or . = ' speed : 58 ')]</value>
+      <webElementGuid>2da4609f-bf6f-4bec-96c1-df4f9a4650b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

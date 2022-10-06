@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Tipo pokemon bug,</name>
+   <tag></tag>
+   <elementGuidId>63616a32-0010-46a1-a5ea-ca9406aea795</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.list-group-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>26935e56-79ca-47cb-95b9-49859d20e3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>62d2eab1-9343-4a87-95a2-65426a2d880c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo pokemon: bug, </value>
+      <webElementGuid>37d370fd-5f91-45c0-95e2-7b2ccd5a4115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>95026cb3-47d8-4b99-a3ae-a31fb2a8fb0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li</value>
+      <webElementGuid>155f218e-3d82-4a0a-92b6-bbb5c073c68e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='metapod'])[1]/following::li[1]</value>
+      <webElementGuid>a92836a5-c7c5-413d-81f5-4229a865fd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::li[1]</value>
+      <webElementGuid>e3672373-f30d-450b-a044-02748b52f06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='bug']/parent::*</value>
+      <webElementGuid>5a9b682a-bcc4-4c96-b53d-d52d6a3d3c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>7c17596f-63f7-41c9-9ff1-580b4251a4c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Tipo pokemon: bug, ' or . = 'Tipo pokemon: bug, ')]</value>
+      <webElementGuid>91f4a2c9-fbd4-475e-a1ac-8c3a351f82e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

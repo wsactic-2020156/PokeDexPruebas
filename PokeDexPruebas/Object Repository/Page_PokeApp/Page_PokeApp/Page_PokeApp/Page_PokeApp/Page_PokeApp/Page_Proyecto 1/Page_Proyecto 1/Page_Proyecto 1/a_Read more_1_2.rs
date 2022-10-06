@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Read more_1_2</name>
+   <tag></tag>
+   <elementGuidId>6ff53b87-23c7-4cc0-b3f7-fc25ae0c3a8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c9870b1e-619c-4e67-8084-cdefe968c785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/about/3</value>
+      <webElementGuid>4a708998-0563-48e7-9490-d087979f9891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read more</value>
+      <webElementGuid>a2e7a6f3-a30a-41e5-a163-aa6fe6ef438f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row rows-cols-1 row-cols-md-3 g-3 principal&quot;]/div[@class=&quot;col animate__animated animate__bounce&quot;]/div[@class=&quot;card container&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col-8&quot;]/div[@class=&quot;car-body&quot;]/a[1]</value>
+      <webElementGuid>d7016d63-13fb-43fe-8927-48bd416894ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div/div/div[2]/div/a</value>
+      <webElementGuid>01106d53-0325-4440-9cfe-0cd8c38d2933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Read more')])[3]</value>
+      <webElementGuid>f043e1a8-76cc-4d89-bb3b-f5f8ae3f636f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chlorophyll'])[3]/following::a[1]</value>
+      <webElementGuid>5e83036c-ca6b-4794-bf03-28e8a91af75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='overgrow'])[3]/following::a[1]</value>
+      <webElementGuid>855dfff5-48f6-4247-bbaf-02e8d5ea67f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='charmander'])[1]/preceding::a[1]</value>
+      <webElementGuid>000f53c6-e199-47a0-bd06-e2a4e50685e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[4]/preceding::a[1]</value>
+      <webElementGuid>6434f469-a1a8-4cb0-9f76-5adc7deb7a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/about/3')]</value>
+      <webElementGuid>88c1cde8-76ed-451a-ac5d-d1d244a51b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/a</value>
+      <webElementGuid>46454938-ade2-4de4-ad5f-1824509f5dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/about/3' and (text() = 'Read more' or . = 'Read more')]</value>
+      <webElementGuid>ebd45b64-d3e5-4669-9506-892c84b8cd92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

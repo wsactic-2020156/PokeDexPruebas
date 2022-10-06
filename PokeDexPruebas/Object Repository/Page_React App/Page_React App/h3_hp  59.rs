@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_hp  59</name>
+   <tag></tag>
+   <elementGuidId>004d99d3-ae71-4d5c-94a1-3f070cf9049a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show1']/div/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>2f3198a4-2af2-4a45-8f4b-c4a710eacd48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> hp : 59 </value>
+      <webElementGuid>ed3976c8-de99-4ade-a338-79fa6537350c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show1&quot;)/div[@class=&quot;show__container&quot;]/div[@class=&quot;content&quot;]/h3[1]</value>
+      <webElementGuid>72117898-eaa4-4961-ac9f-e59843c35380</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show1']/div/div[2]/h3</value>
+      <webElementGuid>4ecb9c1c-bce1-453e-aa7d-2f77ef6ac16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rain-dish'])[1]/following::h3[1]</value>
+      <webElementGuid>411af67b-5cb1-400a-99d9-c1eb814a7a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='torrent'])[1]/following::h3[1]</value>
+      <webElementGuid>9a06af52-5565-4834-9084-5bfa8f463fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hp']/parent::*</value>
+      <webElementGuid>2c6f483b-fa20-41f8-916c-036e8af1993a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>76c37033-ba7a-4837-bafd-f7f6aa1df15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' hp : 59 ' or . = ' hp : 59 ')]</value>
+      <webElementGuid>365f1b32-57d1-4d3e-bea5-1eb7f044639d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

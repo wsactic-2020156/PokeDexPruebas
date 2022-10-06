@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_hp  45</name>
+   <tag></tag>
+   <elementGuidId>dc6e0591-b1a2-4706-a4b7-24c873455fc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show1']/div/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>4416855b-04de-43e1-b9b6-e9a87a37aea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> hp : 45 </value>
+      <webElementGuid>d678096a-922e-4745-b581-1d48537ee95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show1&quot;)/div[@class=&quot;show__container&quot;]/div[@class=&quot;content&quot;]/h3[1]</value>
+      <webElementGuid>c56a86e2-b8f7-4e0a-8f57-77c9310735bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show1']/div/div[2]/h3</value>
+      <webElementGuid>8f9b17a7-e254-44a6-89b6-2d6869508661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chlorophyll'])[1]/following::h3[1]</value>
+      <webElementGuid>289d7e4c-9176-4fbc-8b5a-cd7b25e31cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='overgrow'])[1]/following::h3[1]</value>
+      <webElementGuid>4489b93a-bf5f-4440-8c91-017dd7fe7321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hp']/parent::*</value>
+      <webElementGuid>dd35298b-6212-41b8-9190-8b29304322bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>6e4e0157-1b7e-4713-bdb0-556bf8188e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' hp : 45 ' or . = ' hp : 45 ')]</value>
+      <webElementGuid>0db38b3b-5a63-4315-92f7-3fcd0f1f60f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

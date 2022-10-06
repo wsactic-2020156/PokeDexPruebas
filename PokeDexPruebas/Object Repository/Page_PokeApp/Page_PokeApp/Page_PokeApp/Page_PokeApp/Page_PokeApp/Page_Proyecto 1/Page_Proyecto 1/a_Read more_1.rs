@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Read more_1</name>
+   <tag></tag>
+   <elementGuidId>a9031104-13f6-4818-b36e-bae869143734</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[5]/div/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e26f7599-fb85-4209-8bba-03d84dcad328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/about/35</value>
+      <webElementGuid>d895ed85-34ef-45c7-aff0-4e98aa42a171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read more</value>
+      <webElementGuid>4e5250e9-40c6-4c66-a2b3-8203f17ef98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row rows-cols-1 row-cols-md-3 g-3 principal&quot;]/div[@class=&quot;col animate__animated animate__bounce&quot;]/div[@class=&quot;card container&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col-8&quot;]/div[@class=&quot;car-body&quot;]/a[1]</value>
+      <webElementGuid>31f1e2c6-b2c1-4664-9c7f-1233be3610bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[5]/div/div/div[2]/div/a</value>
+      <webElementGuid>9616f3b6-13f5-4ac1-a061-55d9377c3f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Read more')])[5]</value>
+      <webElementGuid>f83e186a-a10b-4c3c-af00-d141c378f5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='friend-guard'])[1]/following::a[1]</value>
+      <webElementGuid>231a028e-81d7-4afa-b43d-18928168c439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='magic-guard'])[1]/following::a[1]</value>
+      <webElementGuid>f6d63f8b-1567-48fa-88c7-940699af2345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clefable'])[1]/preceding::a[1]</value>
+      <webElementGuid>aee5873d-e7ff-409c-85fb-26b33cd8c47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[6]/preceding::a[1]</value>
+      <webElementGuid>fe9d63c9-c115-4479-b0e8-6ee3b8997c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/about/35')]</value>
+      <webElementGuid>73a31c99-2eaa-432e-a3f1-e1a7dd66970f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/a</value>
+      <webElementGuid>a64736e3-c446-4a7e-8677-dd601d343a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/about/35' and (text() = 'Read more' or . = 'Read more')]</value>
+      <webElementGuid>9e90735a-6447-4832-be50-ce9fa4136ff5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

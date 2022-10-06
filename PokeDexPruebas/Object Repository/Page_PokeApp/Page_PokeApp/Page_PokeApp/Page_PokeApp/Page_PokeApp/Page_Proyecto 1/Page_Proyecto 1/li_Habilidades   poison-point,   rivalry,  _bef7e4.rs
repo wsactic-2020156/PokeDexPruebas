@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Habilidades   poison-point,   rivalry,  _bef7e4</name>
+   <tag></tag>
+   <elementGuidId>2347955d-8b1d-4bfc-89d3-94a36c5ba8bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d0d62dec-bd96-4c48-9148-d31f44e9da45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>efe2ea3d-2cbd-4c16-8f47-0ffb5cd4dbe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Habilidades:   poison-point,   rivalry,   hustle, </value>
+      <webElementGuid>0b94ab06-b180-4725-add0-24b27630440f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>4178e60f-e0e5-4699-83b3-33eb384f537c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li[2]</value>
+      <webElementGuid>6350cbcd-c095-4660-9a9f-13b7a758a018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo pokemon:'])[1]/following::li[1]</value>
+      <webElementGuid>4892370a-47d7-4860-9a8b-593dd1866111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movimientos:'])[1]/preceding::li[1]</value>
+      <webElementGuid>fe531ae2-176a-467d-bf89-4a4d5e72f900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='poison-point']/parent::*</value>
+      <webElementGuid>f8731fe9-0d70-426f-85a6-58ba471ad9f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>43200bba-f3df-4371-85bd-d6f310e35d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Habilidades:   poison-point,   rivalry,   hustle, ' or . = 'Habilidades:   poison-point,   rivalry,   hustle, ')]</value>
+      <webElementGuid>018a84cf-f69f-4e8a-84b2-97610d8dc522</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

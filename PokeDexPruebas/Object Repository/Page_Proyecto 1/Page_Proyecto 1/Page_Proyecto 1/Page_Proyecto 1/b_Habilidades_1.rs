@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Habilidades_1</name>
+   <tag></tag>
+   <elementGuidId>69c3bcbc-5abf-439e-83d7-315b8fe5e05b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>628c9b46-4f02-4308-a5c1-eb0b84b8e955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Habilidades: </value>
+      <webElementGuid>226fe621-4974-4c9f-be6e-d7437d270b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]/b[1]</value>
+      <webElementGuid>5fa0c38c-457f-489a-8c7d-652bcd2f696a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li[2]/b</value>
+      <webElementGuid>056a62e4-5477-4db9-8caf-7cccde315586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo pokemon:'])[1]/following::b[1]</value>
+      <webElementGuid>9fa2eaf2-4935-49db-9bbd-bce9cec702f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movimientos:'])[1]/preceding::b[1]</value>
+      <webElementGuid>f91a1eb6-0fb3-4f80-a713-8811d198db34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Habilidades:']/parent::*</value>
+      <webElementGuid>af554818-fb48-43c4-8435-cc62c99246b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/b</value>
+      <webElementGuid>d9ec716c-ff51-469d-99b3-73d6d648d7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Habilidades: ' or . = 'Habilidades: ')]</value>
+      <webElementGuid>cd8a1b3d-4d44-4786-8b8a-62f817b10233</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

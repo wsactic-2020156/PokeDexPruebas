@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Movimientos mega-punch, fire-punch, thun_48250b</name>
+   <tag></tag>
+   <elementGuidId>48ce1eab-4024-48c2-895d-3c22533dca0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c9432148-f8b8-472e-8328-c56b71c91c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>b08446de-73d6-4853-a9ee-2e086f9167ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movimientos: mega-punch, fire-punch, thunder-punch, scratch, swords-dance, cut, mega-kick, headbutt, body-slam, take-down, double-edge, leer, growl, ember, flamethrower, submission, counter, seismic-toss, strength, dragon-rage, fire-spin, dig, toxic, rage, mimic, double-team, smokescreen, defense-curl, reflect, bide, fire-blast, swift, skull-bash, fury-swipes, rest, rock-slide, slash, substitute, snore, curse, protect, scary-face, mud-slap, outrage, endure, false-swipe, swagger, fury-cutter, attract, sleep-talk, return, frustration, dynamic-punch, dragon-breath, iron-tail, metal-claw, hidden-power, sunny-day, crunch, rock-smash, beat-up, heat-wave, will-o-wisp, facade, focus-punch, helping-hand, brick-break, secret-power, weather-ball, overheat, rock-tomb, aerial-ace, dragon-claw, dragon-dance, natural-gift, fling, flare-blitz, dragon-pulse, shadow-claw, fire-fang, captivate, hone-claws, flame-burst, flame-charge, round, echoed-voice, incinerate, acrobatics, inferno, fire-pledge, work-up, confide, power-up-punch, </value>
+      <webElementGuid>350ed788-65a7-45da-aa99-ba268dbb867e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>48a37f05-091c-4dc9-8ada-0b92e1262c2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      <webElementGuid>a755541b-2bdc-4eb3-8a9b-94fba50d3942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[1]/following::li[1]</value>
+      <webElementGuid>92ffc9f7-5042-4f04-804a-c1af18214a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::li[1]</value>
+      <webElementGuid>ade3de71-8023-4627-aa94-c5ab8760e679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mega-punch']/parent::*</value>
+      <webElementGuid>53f75e46-324b-4644-a0e0-0b44852c0b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>081410a0-114a-42e5-a0f3-89e9dd986f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Movimientos: mega-punch, fire-punch, thunder-punch, scratch, swords-dance, cut, mega-kick, headbutt, body-slam, take-down, double-edge, leer, growl, ember, flamethrower, submission, counter, seismic-toss, strength, dragon-rage, fire-spin, dig, toxic, rage, mimic, double-team, smokescreen, defense-curl, reflect, bide, fire-blast, swift, skull-bash, fury-swipes, rest, rock-slide, slash, substitute, snore, curse, protect, scary-face, mud-slap, outrage, endure, false-swipe, swagger, fury-cutter, attract, sleep-talk, return, frustration, dynamic-punch, dragon-breath, iron-tail, metal-claw, hidden-power, sunny-day, crunch, rock-smash, beat-up, heat-wave, will-o-wisp, facade, focus-punch, helping-hand, brick-break, secret-power, weather-ball, overheat, rock-tomb, aerial-ace, dragon-claw, dragon-dance, natural-gift, fling, flare-blitz, dragon-pulse, shadow-claw, fire-fang, captivate, hone-claws, flame-burst, flame-charge, round, echoed-voice, incinerate, acrobatics, inferno, fire-pledge, work-up, confide, power-up-punch, ' or . = 'Movimientos: mega-punch, fire-punch, thunder-punch, scratch, swords-dance, cut, mega-kick, headbutt, body-slam, take-down, double-edge, leer, growl, ember, flamethrower, submission, counter, seismic-toss, strength, dragon-rage, fire-spin, dig, toxic, rage, mimic, double-team, smokescreen, defense-curl, reflect, bide, fire-blast, swift, skull-bash, fury-swipes, rest, rock-slide, slash, substitute, snore, curse, protect, scary-face, mud-slap, outrage, endure, false-swipe, swagger, fury-cutter, attract, sleep-talk, return, frustration, dynamic-punch, dragon-breath, iron-tail, metal-claw, hidden-power, sunny-day, crunch, rock-smash, beat-up, heat-wave, will-o-wisp, facade, focus-punch, helping-hand, brick-break, secret-power, weather-ball, overheat, rock-tomb, aerial-ace, dragon-claw, dragon-dance, natural-gift, fling, flare-blitz, dragon-pulse, shadow-claw, fire-fang, captivate, hone-claws, flame-burst, flame-charge, round, echoed-voice, incinerate, acrobatics, inferno, fire-pledge, work-up, confide, power-up-punch, ')]</value>
+      <webElementGuid>cb709c9e-bb8f-4d28-9a50-17a607b8ee9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

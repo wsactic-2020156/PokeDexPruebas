@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Read more_1</name>
+   <tag></tag>
+   <elementGuidId>328e1aa6-c987-4658-9010-129127b89d11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c10cf37d-5ee8-4323-a7b7-997ab7ae2855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/about/2</value>
+      <webElementGuid>516d52ac-6baa-4e04-8335-c5cfbcddc218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read more</value>
+      <webElementGuid>b5d64817-2179-4594-b1fc-69a87e68104a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row rows-cols-1 row-cols-md-3 g-3 principal&quot;]/div[@class=&quot;col animate__animated animate__bounce&quot;]/div[@class=&quot;card container&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col-8&quot;]/div[@class=&quot;car-body&quot;]/a[1]</value>
+      <webElementGuid>f9781679-020e-4972-b03d-375f874db546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>9f605554-9629-4042-b9d6-e37df252ede0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Read more')])[2]</value>
+      <webElementGuid>6ff20851-5c95-4091-ac54-0a357444d56e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chlorophyll'])[2]/following::a[1]</value>
+      <webElementGuid>54fdad57-7e25-4b9a-bd18-64057405d2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='overgrow'])[2]/following::a[1]</value>
+      <webElementGuid>57a802b7-865e-44df-9919-5cf8202b1ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='venusaur'])[1]/preceding::a[1]</value>
+      <webElementGuid>23f467c6-49c2-47db-8f47-a5e465b89e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[3]/preceding::a[1]</value>
+      <webElementGuid>000f83a7-ad32-4c59-bc33-3bf2c49f304e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/about/2')]</value>
+      <webElementGuid>f9391e25-90f9-42f0-9534-2fc38483a1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>c5914f83-b52f-41f7-8488-ae731b16ad6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/about/2' and (text() = 'Read more' or . = 'Read more')]</value>
+      <webElementGuid>167b5714-b27a-44f2-b7de-d23f837eb1e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

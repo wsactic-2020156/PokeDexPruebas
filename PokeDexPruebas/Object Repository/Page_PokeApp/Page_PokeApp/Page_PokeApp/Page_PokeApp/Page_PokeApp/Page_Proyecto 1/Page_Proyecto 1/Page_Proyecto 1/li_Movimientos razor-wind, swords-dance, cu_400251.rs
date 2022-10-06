@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Movimientos razor-wind, swords-dance, cu_400251</name>
+   <tag></tag>
+   <elementGuidId>c7d2cae5-9385-4cd3-b239-0501c6299a09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8b70ba47-7843-4168-a295-5c6227aa8b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>281fe4b6-7d1b-443c-8a7c-0b020f39e54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movimientos: razor-wind, swords-dance, cut, bind, vine-whip, headbutt, tackle, body-slam, take-down, double-edge, growl, strength, mega-drain, leech-seed, growth, razor-leaf, solar-beam, poison-powder, sleep-powder, petal-dance, string-shot, toxic, rage, mimic, double-team, defense-curl, light-screen, reflect, bide, sludge, skull-bash, amnesia, flash, rest, substitute, snore, curse, protect, sludge-bomb, mud-slap, outrage, giga-drain, endure, charm, false-swipe, swagger, fury-cutter, attract, sleep-talk, return, frustration, safeguard, sweet-scent, synthesis, hidden-power, sunny-day, rock-smash, facade, nature-power, helping-hand, ingrain, knock-off, secret-power, weather-ball, grass-whistle, bullet-seed, magical-leaf, natural-gift, worry-seed, seed-bomb, energy-ball, leaf-storm, power-whip, captivate, grass-knot, venoshock, round, echoed-voice, grass-pledge, work-up, grassy-terrain, confide, grassy-glide, </value>
+      <webElementGuid>5cc89ad6-275b-4006-bd3d-3b623d297b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>58479561-c3fb-4d28-a6d1-797bd1d5cf73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      <webElementGuid>8c9b8844-a595-4f5a-8d32-2c99b5888105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[1]/following::li[1]</value>
+      <webElementGuid>0df3ce9f-3946-4087-a54e-c8fc46851d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::li[1]</value>
+      <webElementGuid>6dc7dde3-737a-459b-9711-6327c05709df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='razor-wind']/parent::*</value>
+      <webElementGuid>48144a37-39f0-4127-9b8f-8a7b492e0e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>63d427c7-6bbd-49bc-82d9-84a6cd94630b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Movimientos: razor-wind, swords-dance, cut, bind, vine-whip, headbutt, tackle, body-slam, take-down, double-edge, growl, strength, mega-drain, leech-seed, growth, razor-leaf, solar-beam, poison-powder, sleep-powder, petal-dance, string-shot, toxic, rage, mimic, double-team, defense-curl, light-screen, reflect, bide, sludge, skull-bash, amnesia, flash, rest, substitute, snore, curse, protect, sludge-bomb, mud-slap, outrage, giga-drain, endure, charm, false-swipe, swagger, fury-cutter, attract, sleep-talk, return, frustration, safeguard, sweet-scent, synthesis, hidden-power, sunny-day, rock-smash, facade, nature-power, helping-hand, ingrain, knock-off, secret-power, weather-ball, grass-whistle, bullet-seed, magical-leaf, natural-gift, worry-seed, seed-bomb, energy-ball, leaf-storm, power-whip, captivate, grass-knot, venoshock, round, echoed-voice, grass-pledge, work-up, grassy-terrain, confide, grassy-glide, ' or . = 'Movimientos: razor-wind, swords-dance, cut, bind, vine-whip, headbutt, tackle, body-slam, take-down, double-edge, growl, strength, mega-drain, leech-seed, growth, razor-leaf, solar-beam, poison-powder, sleep-powder, petal-dance, string-shot, toxic, rage, mimic, double-team, defense-curl, light-screen, reflect, bide, sludge, skull-bash, amnesia, flash, rest, substitute, snore, curse, protect, sludge-bomb, mud-slap, outrage, giga-drain, endure, charm, false-swipe, swagger, fury-cutter, attract, sleep-talk, return, frustration, safeguard, sweet-scent, synthesis, hidden-power, sunny-day, rock-smash, facade, nature-power, helping-hand, ingrain, knock-off, secret-power, weather-ball, grass-whistle, bullet-seed, magical-leaf, natural-gift, worry-seed, seed-bomb, energy-ball, leaf-storm, power-whip, captivate, grass-knot, venoshock, round, echoed-voice, grass-pledge, work-up, grassy-terrain, confide, grassy-glide, ')]</value>
+      <webElementGuid>fac226b6-6017-4f86-8729-e30ec7d52caf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

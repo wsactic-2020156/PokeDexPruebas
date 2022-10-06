@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_ID 1 Nombre bulbasaur</name>
+   <tag></tag>
+   <elementGuidId>e3aba143-139f-4146-8a53-79e7a2133083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.card2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/table/tbody/tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>535ca73a-cf01-4445-8229-163884390998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card2</value>
+      <webElementGuid>e96cc7e6-e007-4c44-bda5-993c68122f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ID: 1 Nombre: bulbasaur</value>
+      <webElementGuid>e19109ed-8b72-4eb2-8d89-8820ac1cb94c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/table[1]/tbody[@class=&quot;container&quot;]/tr[@class=&quot;card2&quot;]</value>
+      <webElementGuid>ff315002-70cc-43c8-8297-4d2120fbc1c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/table/tbody/tr</value>
+      <webElementGuid>5db909cd-4e44-4d92-9fca-f3f37a8a528d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='siguiente'])[1]/following::tr[1]</value>
+      <webElementGuid>cb6b294b-f3bf-45c9-beb1-d746164862cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aca podras encontrar un listado con todos los pokemons'])[1]/following::tr[1]</value>
+      <webElementGuid>25b18e81-2111-4258-8a29-2c44fa0c7963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr</value>
+      <webElementGuid>f6a0f8aa-42b1-4f17-a83d-057cc484561c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = 'ID: 1 Nombre: bulbasaur' or . = 'ID: 1 Nombre: bulbasaur')]</value>
+      <webElementGuid>3c9b8361-f29b-4906-a4b8-b8622d08b0c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

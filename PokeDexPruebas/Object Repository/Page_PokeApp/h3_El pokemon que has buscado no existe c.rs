@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_El pokemon que has buscado no existe c</name>
+   <tag></tag>
+   <elementGuidId>624a1fb6-14a6-49f0-879d-d4449d503b90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>1ffdab6d-1071-4c44-83c2-3a00597ee11e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>26092051-fea0-4863-9fb0-450825f55866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El pokemon que has buscado no existe :c</value>
+      <webElementGuid>4a458a2d-1fe4-47ed-ab13-43ac3084ef37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/h3[@class=&quot;title&quot;]</value>
+      <webElementGuid>86b77dd6-a100-4557-9a5d-608f9cefab8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/h3</value>
+      <webElementGuid>2ff9c23a-b587-4309-ae71-8e45d8158085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Busca a tu Pokemon'])[1]/following::h3[1]</value>
+      <webElementGuid>224e992b-cffb-456d-9f47-41881ad58110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Todos'])[1]/following::h3[1]</value>
+      <webElementGuid>a42643c1-4d47-4758-832f-9a67a2d04a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'root', '&quot;', ')/h3[@class=', '&quot;', 'title', '&quot;', ']')])[1]/preceding::h3[1]</value>
+      <webElementGuid>450427e7-fe5f-498b-8e81-7d6686942752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El pokemon que has buscado no existe :c']/parent::*</value>
+      <webElementGuid>a587a4b4-e2a1-48ec-8979-9c5f7558e96d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>fb99b2a4-08a5-46b9-a195-d96a82c6df5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'El pokemon que has buscado no existe :c' or . = 'El pokemon que has buscado no existe :c')]</value>
+      <webElementGuid>64670e75-dee5-4420-8570-09a27b26c5ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

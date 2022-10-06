@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Movimientos mega-punch, pay-day, thunder_c5beef</name>
+   <tag></tag>
+   <elementGuidId>7ca77657-af12-4201-a0f2-ef838fd1fa64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>26b92e7f-e049-4868-a1ca-caf3106165d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>41233b03-2ff6-4277-aaea-bb6d68ef8db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movimientos: mega-punch, pay-day, thunder-punch, slam, double-kick, mega-kick, headbutt, body-slam, take-down, double-edge, tail-whip, growl, surf, submission, counter, seismic-toss, strength, thunder-shock, thunderbolt, thunder-wave, thunder, dig, toxic, agility, quick-attack, rage, mimic, double-team, defense-curl, light-screen, reflect, bide, swift, skull-bash, flash, rest, substitute, thief, snore, curse, reversal, protect, sweet-kiss, mud-slap, zap-cannon, detect, endure, charm, rollout, swagger, spark, attract, sleep-talk, return, frustration, dynamic-punch, encore, iron-tail, hidden-power, rain-dance, rock-smash, uproar, facade, focus-punch, helping-hand, brick-break, knock-off, secret-power, signal-beam, covet, volt-tackle, calm-mind, shock-wave, natural-gift, feint, fling, magnet-rise, nasty-plot, discharge, captivate, grass-knot, charge-beam, electro-ball, round, echoed-voice, volt-switch, electroweb, wild-charge, draining-kiss, play-rough, play-nice, confide, electric-terrain, nuzzle, laser-focus, rising-voltage, </value>
+      <webElementGuid>518e1826-cfa4-4000-9895-7752dd54041a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>63a57c42-74d8-42fd-a9fd-fa27e00bfa7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      <webElementGuid>5c996394-46a9-4802-9dcc-7dcaaf6a347a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[1]/following::li[1]</value>
+      <webElementGuid>a7b0baed-1b98-471f-8649-db50f7924f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::li[1]</value>
+      <webElementGuid>1f0daca4-54e6-48cd-bfd5-e1495b9d7b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mega-punch']/parent::*</value>
+      <webElementGuid>f2bf0d51-f8b4-4605-a5d9-ede0e867eadc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>4e42e3a2-98c3-4008-b909-a27d95420541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Movimientos: mega-punch, pay-day, thunder-punch, slam, double-kick, mega-kick, headbutt, body-slam, take-down, double-edge, tail-whip, growl, surf, submission, counter, seismic-toss, strength, thunder-shock, thunderbolt, thunder-wave, thunder, dig, toxic, agility, quick-attack, rage, mimic, double-team, defense-curl, light-screen, reflect, bide, swift, skull-bash, flash, rest, substitute, thief, snore, curse, reversal, protect, sweet-kiss, mud-slap, zap-cannon, detect, endure, charm, rollout, swagger, spark, attract, sleep-talk, return, frustration, dynamic-punch, encore, iron-tail, hidden-power, rain-dance, rock-smash, uproar, facade, focus-punch, helping-hand, brick-break, knock-off, secret-power, signal-beam, covet, volt-tackle, calm-mind, shock-wave, natural-gift, feint, fling, magnet-rise, nasty-plot, discharge, captivate, grass-knot, charge-beam, electro-ball, round, echoed-voice, volt-switch, electroweb, wild-charge, draining-kiss, play-rough, play-nice, confide, electric-terrain, nuzzle, laser-focus, rising-voltage, ' or . = 'Movimientos: mega-punch, pay-day, thunder-punch, slam, double-kick, mega-kick, headbutt, body-slam, take-down, double-edge, tail-whip, growl, surf, submission, counter, seismic-toss, strength, thunder-shock, thunderbolt, thunder-wave, thunder, dig, toxic, agility, quick-attack, rage, mimic, double-team, defense-curl, light-screen, reflect, bide, swift, skull-bash, flash, rest, substitute, thief, snore, curse, reversal, protect, sweet-kiss, mud-slap, zap-cannon, detect, endure, charm, rollout, swagger, spark, attract, sleep-talk, return, frustration, dynamic-punch, encore, iron-tail, hidden-power, rain-dance, rock-smash, uproar, facade, focus-punch, helping-hand, brick-break, knock-off, secret-power, signal-beam, covet, volt-tackle, calm-mind, shock-wave, natural-gift, feint, fling, magnet-rise, nasty-plot, discharge, captivate, grass-knot, charge-beam, electro-ball, round, echoed-voice, volt-switch, electroweb, wild-charge, draining-kiss, play-rough, play-nice, confide, electric-terrain, nuzzle, laser-focus, rising-voltage, ')]</value>
+      <webElementGuid>0370c41e-b032-423e-886d-485660887f28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

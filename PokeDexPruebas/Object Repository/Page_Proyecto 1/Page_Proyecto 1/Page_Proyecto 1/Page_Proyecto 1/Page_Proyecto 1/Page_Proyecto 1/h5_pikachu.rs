@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_pikachu</name>
+   <tag></tag>
+   <elementGuidId>7fba4486-addd-495e-97a4-841bcdeb3ba8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5.card-title.letra-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[3]/div/div/div[2]/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>329b8524-3a3f-4a07-bbdb-d558dddc054d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title letra-title</value>
+      <webElementGuid>19aa2be9-dd16-4308-812a-3b73e5406434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pikachu</value>
+      <webElementGuid>e98f2f4e-207c-46f2-b5cc-338a3c18cfd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-7&quot;]/div[@class=&quot;col animate__animated animate__bounce&quot;]/div[@class=&quot;card container&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col-8&quot;]/div[@class=&quot;car-body&quot;]/h5[@class=&quot;card-title letra-title&quot;]</value>
+      <webElementGuid>0288db27-f7bb-40f5-ae75-b1857a7505ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[3]/div/div/div[2]/div/h5</value>
+      <webElementGuid>3e428c4f-e08b-4092-bd36-af6355bfb3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pikachu'])[1]/following::h5[1]</value>
+      <webElementGuid>31dcd659-da10-4760-b74a-0741cb72f9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search a pokemon'])[2]/following::h5[1]</value>
+      <webElementGuid>c5197139-fb77-4312-93e6-96438f168da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[1]/preceding::h5[1]</value>
+      <webElementGuid>0e00d869-f05a-4987-9717-d7faceecbf0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='static'])[1]/preceding::h5[1]</value>
+      <webElementGuid>82155705-71f3-482f-b895-8f12cef82607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>6c761692-b515-4fe4-92fd-4bc254f9c57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'pikachu' or . = 'pikachu')]</value>
+      <webElementGuid>6c46ed88-e8e7-477c-9ee0-bd62fe32649f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

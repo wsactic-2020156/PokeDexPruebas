@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Beths Mythologspecies Mythological Crea_a7bb8d</name>
+   <tag></tag>
+   <elementGuidId>ce903f8b-bf36-4a9e-a09a-2cb82d2317eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[20]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83fa433e-f1d6-45e6-bb91-2f7873318166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>0bba366b-f395-4f8e-99d9-49b3b553c760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beth's Mythologspecies: Mythological Creaturelocation: Nuptia 4</value>
+      <webElementGuid>b5ebb841-8ec7-47f0-a538-b0953d2553fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>76c3fb7f-efe3-44fe-9b81-c779d685446e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[20]/div/div</value>
+      <webElementGuid>8f055d9a-b14c-47f5-80be-0648d8cf02f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beth Smith'])[2]/following::div[3]</value>
+      <webElementGuid>d8207667-8fc0-4df8-a3e5-0b92c25f6e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beth Smith'])[1]/following::div[6]</value>
+      <webElementGuid>56f29583-84bf-4e6c-bc08-d45f5b1d1bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar'])[1]/preceding::div[1]</value>
+      <webElementGuid>36d64e8e-3d9a-4b35-84c3-60a5dd55e1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]/div/div</value>
+      <webElementGuid>a497f5b7-a6b7-4126-b7ce-4ed029900313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Beth&quot; , &quot;'&quot; , &quot;s Mythologspecies: Mythological Creaturelocation: Nuptia 4&quot;) or . = concat(&quot;Beth&quot; , &quot;'&quot; , &quot;s Mythologspecies: Mythological Creaturelocation: Nuptia 4&quot;))]</value>
+      <webElementGuid>d13ec558-4292-481d-9f08-84e7d5f39e22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

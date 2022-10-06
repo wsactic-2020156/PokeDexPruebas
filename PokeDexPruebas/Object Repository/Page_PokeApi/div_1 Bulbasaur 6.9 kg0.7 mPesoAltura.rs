@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1 Bulbasaur 6.9 kg0.7 mPesoAltura</name>
+   <tag></tag>
+   <elementGuidId>b8a29f65-78c4-489b-8f3b-16b63eed9e4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c4c7f67-4dc9-4fd0-aca4-70b776a043b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card__items</value>
+      <webElementGuid>b033c228-ea67-4cf4-b5fa-488a34ac9172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Bulbasaur 6.9 kg0.7 mPesoAltura</value>
+      <webElementGuid>9ffed719-1da3-4a75-a6d2-3621036de2f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;card__items&quot;]</value>
+      <webElementGuid>9366880f-b207-45af-890b-0ed1ec5a6de5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]</value>
+      <webElementGuid>4fd2a49a-7769-430d-80b3-e0d437f9a940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades'])[1]/following::div[1]</value>
+      <webElementGuid>d7baa218-fc8a-4a4d-af72-e4dc142f7f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡PokeApp!'])[1]/following::div[4]</value>
+      <webElementGuid>733fef0f-b6fa-4117-b98c-3feea57accf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>2f4521ac-5949-4a20-8a41-f05ad07dcf13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 Bulbasaur 6.9 kg0.7 mPesoAltura' or . = '1 Bulbasaur 6.9 kg0.7 mPesoAltura')]</value>
+      <webElementGuid>c3d69ebe-a247-42a1-a053-bc0c63007f8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

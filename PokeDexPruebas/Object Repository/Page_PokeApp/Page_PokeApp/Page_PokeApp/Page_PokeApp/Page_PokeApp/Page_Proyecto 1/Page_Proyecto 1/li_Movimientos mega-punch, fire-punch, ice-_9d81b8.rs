@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Movimientos mega-punch, fire-punch, ice-_9d81b8</name>
+   <tag></tag>
+   <elementGuidId>e735fa13-107b-483a-a480-e20da4a65566</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>89fafa0e-f344-4ea0-ad65-b9775c4116e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>5975d28f-c196-453f-9669-1aed7e27da3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movimientos: mega-punch, fire-punch, ice-punch, thunder-punch, mega-kick, headbutt, body-slam, take-down, double-edge, submission, counter, seismic-toss, thunder-wave, toxic, confusion, psychic, rage, teleport, mimic, double-team, barrier, light-screen, reflect, bide, metronome, swift, skull-bash, dream-eater, flash, psywave, rest, tri-attack, substitute, thief, nightmare, snore, curse, protect, zap-cannon, endure, swagger, attract, sleep-talk, return, frustration, safeguard, dynamic-punch, encore, iron-tail, hidden-power, rain-dance, sunny-day, psych-up, shadow-ball, torment, facade, focus-punch, taunt, trick, role-play, magic-coat, recycle, knock-off, skill-swap, snatch, secret-power, signal-beam, calm-mind, shock-wave, gravity, natural-gift, embargo, fling, psycho-shift, power-trick, power-swap, guard-swap, drain-punch, energy-ball, zen-headbutt, trick-room, captivate, grass-knot, charge-beam, guard-split, wonder-room, psyshock, telekinesis, magic-room, foul-play, round, ally-switch, confide, dazzling-gleam, psychic-terrain, speed-swap, </value>
+      <webElementGuid>08f6eb08-394a-4194-b245-db8d9a4b2d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>b79833b1-4519-406e-af9a-c0bcb61c4bdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      <webElementGuid>482b3899-43ee-4efd-a74e-2d54132be88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[1]/following::li[1]</value>
+      <webElementGuid>42e2e5db-53ce-44a4-b5ef-1f60e0d3e317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::li[1]</value>
+      <webElementGuid>217ad8d3-df09-4d85-b2dc-45d398ffb397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mega-punch']/parent::*</value>
+      <webElementGuid>da41c8e3-c395-4f3e-98a0-039bb052de5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>33755d1c-80d4-47fe-9d9b-ec81e4ee88f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Movimientos: mega-punch, fire-punch, ice-punch, thunder-punch, mega-kick, headbutt, body-slam, take-down, double-edge, submission, counter, seismic-toss, thunder-wave, toxic, confusion, psychic, rage, teleport, mimic, double-team, barrier, light-screen, reflect, bide, metronome, swift, skull-bash, dream-eater, flash, psywave, rest, tri-attack, substitute, thief, nightmare, snore, curse, protect, zap-cannon, endure, swagger, attract, sleep-talk, return, frustration, safeguard, dynamic-punch, encore, iron-tail, hidden-power, rain-dance, sunny-day, psych-up, shadow-ball, torment, facade, focus-punch, taunt, trick, role-play, magic-coat, recycle, knock-off, skill-swap, snatch, secret-power, signal-beam, calm-mind, shock-wave, gravity, natural-gift, embargo, fling, psycho-shift, power-trick, power-swap, guard-swap, drain-punch, energy-ball, zen-headbutt, trick-room, captivate, grass-knot, charge-beam, guard-split, wonder-room, psyshock, telekinesis, magic-room, foul-play, round, ally-switch, confide, dazzling-gleam, psychic-terrain, speed-swap, ' or . = 'Movimientos: mega-punch, fire-punch, ice-punch, thunder-punch, mega-kick, headbutt, body-slam, take-down, double-edge, submission, counter, seismic-toss, thunder-wave, toxic, confusion, psychic, rage, teleport, mimic, double-team, barrier, light-screen, reflect, bide, metronome, swift, skull-bash, dream-eater, flash, psywave, rest, tri-attack, substitute, thief, nightmare, snore, curse, protect, zap-cannon, endure, swagger, attract, sleep-talk, return, frustration, safeguard, dynamic-punch, encore, iron-tail, hidden-power, rain-dance, sunny-day, psych-up, shadow-ball, torment, facade, focus-punch, taunt, trick, role-play, magic-coat, recycle, knock-off, skill-swap, snatch, secret-power, signal-beam, calm-mind, shock-wave, gravity, natural-gift, embargo, fling, psycho-shift, power-trick, power-swap, guard-swap, drain-punch, energy-ball, zen-headbutt, trick-room, captivate, grass-knot, charge-beam, guard-split, wonder-room, psyshock, telekinesis, magic-room, foul-play, round, ally-switch, confide, dazzling-gleam, psychic-terrain, speed-swap, ')]</value>
+      <webElementGuid>6b914d1d-e9d2-4c27-999c-0adacf9bc9b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

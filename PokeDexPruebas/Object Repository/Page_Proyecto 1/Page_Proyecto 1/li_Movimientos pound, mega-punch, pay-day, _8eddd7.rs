@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Movimientos pound, mega-punch, pay-day, _8eddd7</name>
+   <tag></tag>
+   <elementGuidId>f0884714-2c5d-488a-94d2-6b1a8180cf22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ecc7cc3b-9fbe-4331-a21b-c043ecb7353d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>a5545efd-7f56-41a7-98d9-dad14834fb60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movimientos: pound, mega-punch, pay-day, fire-punch, ice-punch, thunder-punch, razor-wind, swords-dance, cut, whirlwind, fly, bind, mega-kick, headbutt, horn-drill, body-slam, take-down, double-edge, pin-missile, roar, flamethrower, water-gun, hydro-pump, surf, ice-beam, blizzard, bubble-beam, hyper-beam, submission, low-kick, counter, seismic-toss, strength, mega-drain, solar-beam, string-shot, dragon-rage, fire-spin, thunderbolt, thunder-wave, thunder, earthquake, fissure, dig, toxic, confusion, psychic, hypnosis, agility, rage, teleport, night-shade, mimic, screech, double-team, defense-curl, barrier, light-screen, reflect, focus-energy, bide, metronome, self-destruct, egg-bomb, fire-blast, waterfall, swift, skull-bash, amnesia, soft-boiled, dream-eater, leech-life, sky-attack, transform, flash, psywave, explosion, rest, rock-slide, tri-attack, super-fang, substitute, thief, nightmare, snore, curse, reversal, spite, protect, scary-face, feint-attack, sludge-bomb, mud-slap, spikes, zap-cannon, icy-wind, detect, outrage, sandstorm, giga-drain, endure, charm, rollout, false-swipe, swagger, fury-cutter, steel-wing, attract, sleep-talk, heal-bell, return, frustration, safeguard, pain-split, dynamic-punch, megahorn, dragon-breath, baton-pass, encore, sweet-scent, iron-tail, synthesis, hidden-power, twister, rain-dance, sunny-day, crunch, psych-up, ancient-power, shadow-ball, future-sight, rock-smash, whirlpool, beat-up, fake-out, uproar, heat-wave, hail, torment, will-o-wisp, facade, focus-punch, nature-power, taunt, helping-hand, trick, role-play, superpower, magic-coat, recycle, revenge, brick-break, knock-off, endeavor, skill-swap, imprison, snatch, secret-power, dive, blaze-kick, hyper-voice, weather-ball, fake-tears, air-cutter, overheat, rock-tomb, silver-wind, cosmic-power, signal-beam, sand-tomb, muddy-water, bullet-seed, aerial-ace, icicle-spear, iron-defense, block, dragon-claw, bulk-up, bounce, mud-shot, covet, magical-leaf, calm-mind, leaf-blade, dragon-dance, rock-blast, shock-wave, water-pulse, roost, gravity, gyro-ball, brine, natural-gift, pluck, tailwind, u-turn, close-combat, payback, assurance, embargo, fling, gastro-acid, me-first, power-swap, guard-swap, last-resort, worry-seed, sucker-punch, toxic-spikes, magnet-rise, flare-blitz, aura-sphere, rock-polish, poison-jab, dark-pulse, aqua-tail, seed-bomb, air-slash, x-scissor, bug-buzz, dragon-pulse, power-gem, drain-punch, vacuum-wave, focus-blast, energy-ball, brave-bird, earth-power, giga-impact, nasty-plot, avalanche, shadow-claw, thunder-fang, ice-fang, fire-fang, psycho-cut, zen-headbutt, flash-cannon, rock-climb, defog, trick-room, leaf-storm, power-whip, cross-poison, gunk-shot, iron-head, stone-edge, captivate, stealth-rock, grass-knot, bug-bite, charge-beam, ominous-wind, hone-claws, wonder-room, psyshock, venoshock, telekinesis, magic-room, smack-down, sludge-wave, heavy-slam, electro-ball, flame-charge, low-sweep, foul-play, after-you, round, echoed-voice, stored-power, ally-switch, scald, hex, sky-drop, incinerate, quash, acrobatics, reflect-type, retaliate, volt-switch, struggle-bug, bulldoze, frost-breath, dragon-tail, work-up, electroweb, wild-charge, drill-run, dual-chop, razor-shell, heat-crash, tail-slap, hurricane, snarl, phantom-force, draining-kiss, grassy-terrain, misty-terrain, play-rough, confide, mystical-fire, eerie-impulse, venom-drench, electric-terrain, dazzling-gleam, infestation, power-up-punch, darkest-lariat, high-horsepower, solar-blade, laser-focus, throat-chop, pollen-puff, psychic-terrain, speed-swap, smart-strike, brutal-swing, aurora-veil, psychic-fangs, stomping-tantrum, liquidation, body-press, breaking-swipe, life-dew, expanding-force, steel-roller, scale-shot, meteor-beam, misty-explosion, grassy-glide, rising-voltage, terrain-pulse, skitter-smack, burning-jealousy, lash-out, poltergeist, corrosive-gas, coaching, flip-turn, triple-axel, dual-wingbeat, scorching-sands, </value>
+      <webElementGuid>b3a93ed5-3d59-4a69-b686-84930f2cd357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>023d81a6-b34c-4e1e-ae61-5dddcc341704</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      <webElementGuid>2d039b90-e034-4cfd-b273-52447e83373a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[1]/following::li[1]</value>
+      <webElementGuid>e238fd97-9344-4dc6-8149-82053d1458f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::li[1]</value>
+      <webElementGuid>f0e9cc44-dcb8-4169-9de3-a5bd46c08e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='pound']/parent::*</value>
+      <webElementGuid>29304cac-a5f5-4cbe-9c68-961adde38ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>e9bc4374-53e2-4654-899b-b70a8ea4eb7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Movimientos: pound, mega-punch, pay-day, fire-punch, ice-punch, thunder-punch, razor-wind, swords-dance, cut, whirlwind, fly, bind, mega-kick, headbutt, horn-drill, body-slam, take-down, double-edge, pin-missile, roar, flamethrower, water-gun, hydro-pump, surf, ice-beam, blizzard, bubble-beam, hyper-beam, submission, low-kick, counter, seismic-toss, strength, mega-drain, solar-beam, string-shot, dragon-rage, fire-spin, thunderbolt, thunder-wave, thunder, earthquake, fissure, dig, toxic, confusion, psychic, hypnosis, agility, rage, teleport, night-shade, mimic, screech, double-team, defense-curl, barrier, light-screen, reflect, focus-energy, bide, metronome, self-destruct, egg-bomb, fire-blast, waterfall, swift, skull-bash, amnesia, soft-boiled, dream-eater, leech-life, sky-attack, transform, flash, psywave, explosion, rest, rock-slide, tri-attack, super-fang, substitute, thief, nightmare, snore, curse, reversal, spite, protect, scary-face, feint-attack, sludge-bomb, mud-slap, spikes, zap-cannon, icy-wind, detect, outrage, sandstorm, giga-drain, endure, charm, rollout, false-swipe, swagger, fury-cutter, steel-wing, attract, sleep-talk, heal-bell, return, frustration, safeguard, pain-split, dynamic-punch, megahorn, dragon-breath, baton-pass, encore, sweet-scent, iron-tail, synthesis, hidden-power, twister, rain-dance, sunny-day, crunch, psych-up, ancient-power, shadow-ball, future-sight, rock-smash, whirlpool, beat-up, fake-out, uproar, heat-wave, hail, torment, will-o-wisp, facade, focus-punch, nature-power, taunt, helping-hand, trick, role-play, superpower, magic-coat, recycle, revenge, brick-break, knock-off, endeavor, skill-swap, imprison, snatch, secret-power, dive, blaze-kick, hyper-voice, weather-ball, fake-tears, air-cutter, overheat, rock-tomb, silver-wind, cosmic-power, signal-beam, sand-tomb, muddy-water, bullet-seed, aerial-ace, icicle-spear, iron-defense, block, dragon-claw, bulk-up, bounce, mud-shot, covet, magical-leaf, calm-mind, leaf-blade, dragon-dance, rock-blast, shock-wave, water-pulse, roost, gravity, gyro-ball, brine, natural-gift, pluck, tailwind, u-turn, close-combat, payback, assurance, embargo, fling, gastro-acid, me-first, power-swap, guard-swap, last-resort, worry-seed, sucker-punch, toxic-spikes, magnet-rise, flare-blitz, aura-sphere, rock-polish, poison-jab, dark-pulse, aqua-tail, seed-bomb, air-slash, x-scissor, bug-buzz, dragon-pulse, power-gem, drain-punch, vacuum-wave, focus-blast, energy-ball, brave-bird, earth-power, giga-impact, nasty-plot, avalanche, shadow-claw, thunder-fang, ice-fang, fire-fang, psycho-cut, zen-headbutt, flash-cannon, rock-climb, defog, trick-room, leaf-storm, power-whip, cross-poison, gunk-shot, iron-head, stone-edge, captivate, stealth-rock, grass-knot, bug-bite, charge-beam, ominous-wind, hone-claws, wonder-room, psyshock, venoshock, telekinesis, magic-room, smack-down, sludge-wave, heavy-slam, electro-ball, flame-charge, low-sweep, foul-play, after-you, round, echoed-voice, stored-power, ally-switch, scald, hex, sky-drop, incinerate, quash, acrobatics, reflect-type, retaliate, volt-switch, struggle-bug, bulldoze, frost-breath, dragon-tail, work-up, electroweb, wild-charge, drill-run, dual-chop, razor-shell, heat-crash, tail-slap, hurricane, snarl, phantom-force, draining-kiss, grassy-terrain, misty-terrain, play-rough, confide, mystical-fire, eerie-impulse, venom-drench, electric-terrain, dazzling-gleam, infestation, power-up-punch, darkest-lariat, high-horsepower, solar-blade, laser-focus, throat-chop, pollen-puff, psychic-terrain, speed-swap, smart-strike, brutal-swing, aurora-veil, psychic-fangs, stomping-tantrum, liquidation, body-press, breaking-swipe, life-dew, expanding-force, steel-roller, scale-shot, meteor-beam, misty-explosion, grassy-glide, rising-voltage, terrain-pulse, skitter-smack, burning-jealousy, lash-out, poltergeist, corrosive-gas, coaching, flip-turn, triple-axel, dual-wingbeat, scorching-sands, ' or . = 'Movimientos: pound, mega-punch, pay-day, fire-punch, ice-punch, thunder-punch, razor-wind, swords-dance, cut, whirlwind, fly, bind, mega-kick, headbutt, horn-drill, body-slam, take-down, double-edge, pin-missile, roar, flamethrower, water-gun, hydro-pump, surf, ice-beam, blizzard, bubble-beam, hyper-beam, submission, low-kick, counter, seismic-toss, strength, mega-drain, solar-beam, string-shot, dragon-rage, fire-spin, thunderbolt, thunder-wave, thunder, earthquake, fissure, dig, toxic, confusion, psychic, hypnosis, agility, rage, teleport, night-shade, mimic, screech, double-team, defense-curl, barrier, light-screen, reflect, focus-energy, bide, metronome, self-destruct, egg-bomb, fire-blast, waterfall, swift, skull-bash, amnesia, soft-boiled, dream-eater, leech-life, sky-attack, transform, flash, psywave, explosion, rest, rock-slide, tri-attack, super-fang, substitute, thief, nightmare, snore, curse, reversal, spite, protect, scary-face, feint-attack, sludge-bomb, mud-slap, spikes, zap-cannon, icy-wind, detect, outrage, sandstorm, giga-drain, endure, charm, rollout, false-swipe, swagger, fury-cutter, steel-wing, attract, sleep-talk, heal-bell, return, frustration, safeguard, pain-split, dynamic-punch, megahorn, dragon-breath, baton-pass, encore, sweet-scent, iron-tail, synthesis, hidden-power, twister, rain-dance, sunny-day, crunch, psych-up, ancient-power, shadow-ball, future-sight, rock-smash, whirlpool, beat-up, fake-out, uproar, heat-wave, hail, torment, will-o-wisp, facade, focus-punch, nature-power, taunt, helping-hand, trick, role-play, superpower, magic-coat, recycle, revenge, brick-break, knock-off, endeavor, skill-swap, imprison, snatch, secret-power, dive, blaze-kick, hyper-voice, weather-ball, fake-tears, air-cutter, overheat, rock-tomb, silver-wind, cosmic-power, signal-beam, sand-tomb, muddy-water, bullet-seed, aerial-ace, icicle-spear, iron-defense, block, dragon-claw, bulk-up, bounce, mud-shot, covet, magical-leaf, calm-mind, leaf-blade, dragon-dance, rock-blast, shock-wave, water-pulse, roost, gravity, gyro-ball, brine, natural-gift, pluck, tailwind, u-turn, close-combat, payback, assurance, embargo, fling, gastro-acid, me-first, power-swap, guard-swap, last-resort, worry-seed, sucker-punch, toxic-spikes, magnet-rise, flare-blitz, aura-sphere, rock-polish, poison-jab, dark-pulse, aqua-tail, seed-bomb, air-slash, x-scissor, bug-buzz, dragon-pulse, power-gem, drain-punch, vacuum-wave, focus-blast, energy-ball, brave-bird, earth-power, giga-impact, nasty-plot, avalanche, shadow-claw, thunder-fang, ice-fang, fire-fang, psycho-cut, zen-headbutt, flash-cannon, rock-climb, defog, trick-room, leaf-storm, power-whip, cross-poison, gunk-shot, iron-head, stone-edge, captivate, stealth-rock, grass-knot, bug-bite, charge-beam, ominous-wind, hone-claws, wonder-room, psyshock, venoshock, telekinesis, magic-room, smack-down, sludge-wave, heavy-slam, electro-ball, flame-charge, low-sweep, foul-play, after-you, round, echoed-voice, stored-power, ally-switch, scald, hex, sky-drop, incinerate, quash, acrobatics, reflect-type, retaliate, volt-switch, struggle-bug, bulldoze, frost-breath, dragon-tail, work-up, electroweb, wild-charge, drill-run, dual-chop, razor-shell, heat-crash, tail-slap, hurricane, snarl, phantom-force, draining-kiss, grassy-terrain, misty-terrain, play-rough, confide, mystical-fire, eerie-impulse, venom-drench, electric-terrain, dazzling-gleam, infestation, power-up-punch, darkest-lariat, high-horsepower, solar-blade, laser-focus, throat-chop, pollen-puff, psychic-terrain, speed-swap, smart-strike, brutal-swing, aurora-veil, psychic-fangs, stomping-tantrum, liquidation, body-press, breaking-swipe, life-dew, expanding-force, steel-roller, scale-shot, meteor-beam, misty-explosion, grassy-glide, rising-voltage, terrain-pulse, skitter-smack, burning-jealousy, lash-out, poltergeist, corrosive-gas, coaching, flip-turn, triple-axel, dual-wingbeat, scorching-sands, ')]</value>
+      <webElementGuid>13c89ba7-d9fc-460a-84ee-4f67ddddfe77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

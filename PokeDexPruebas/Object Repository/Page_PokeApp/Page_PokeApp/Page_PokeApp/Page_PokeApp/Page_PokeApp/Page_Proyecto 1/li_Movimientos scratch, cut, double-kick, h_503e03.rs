@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Movimientos scratch, cut, double-kick, h_503e03</name>
+   <tag></tag>
+   <elementGuidId>9a5ad95e-562e-4aff-b6bf-f24129b3bee2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7b7ebe2a-4f93-4363-8de7-b1c08a1e0478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item</value>
+      <webElementGuid>f330a5e5-3233-47ea-968f-05cf5a8d0443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movimientos: scratch, cut, double-kick, headbutt, tackle, body-slam, take-down, double-edge, tail-whip, poison-sting, bite, growl, supersonic, disable, ice-beam, blizzard, counter, strength, thunderbolt, thunder, dig, toxic, rage, mimic, double-team, defense-curl, reflect, focus-energy, bide, skull-bash, fury-swipes, rest, super-fang, substitute, thief, snore, curse, protect, sludge-bomb, mud-slap, detect, endure, charm, swagger, attract, sleep-talk, return, frustration, pursuit, iron-tail, hidden-power, rain-dance, sunny-day, crunch, rock-smash, beat-up, flatter, facade, helping-hand, secret-power, poison-fang, aerial-ace, poison-tail, shock-wave, water-pulse, natural-gift, toxic-spikes, poison-jab, earth-power, shadow-claw, captivate, hone-claws, venoshock, round, echoed-voice, chip-away, confide, venom-drench, </value>
+      <webElementGuid>0ada3e43-e920-4e7c-be1d-516db40998aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row mt-5 animate__animated animate__fadeInLeft&quot;]/div[@class=&quot;col-8&quot;]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;list-group-item&quot;]</value>
+      <webElementGuid>d264c4a8-8e6e-42ee-8811-0d13d3008f2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/ul/li[3]</value>
+      <webElementGuid>e4512aba-a90b-41d7-ab43-0ac640faa74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Habilidades:'])[1]/following::li[1]</value>
+      <webElementGuid>13f8187a-2b7b-4111-acb8-c29eea090f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::li[1]</value>
+      <webElementGuid>efb6a533-6b7d-4b34-b715-7d55d665b3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='scratch']/parent::*</value>
+      <webElementGuid>591fae9e-9487-47d7-b5fc-36a8376ca3b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>52f59ea0-0b9d-478a-9c3f-b1a70a8e8981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Movimientos: scratch, cut, double-kick, headbutt, tackle, body-slam, take-down, double-edge, tail-whip, poison-sting, bite, growl, supersonic, disable, ice-beam, blizzard, counter, strength, thunderbolt, thunder, dig, toxic, rage, mimic, double-team, defense-curl, reflect, focus-energy, bide, skull-bash, fury-swipes, rest, super-fang, substitute, thief, snore, curse, protect, sludge-bomb, mud-slap, detect, endure, charm, swagger, attract, sleep-talk, return, frustration, pursuit, iron-tail, hidden-power, rain-dance, sunny-day, crunch, rock-smash, beat-up, flatter, facade, helping-hand, secret-power, poison-fang, aerial-ace, poison-tail, shock-wave, water-pulse, natural-gift, toxic-spikes, poison-jab, earth-power, shadow-claw, captivate, hone-claws, venoshock, round, echoed-voice, chip-away, confide, venom-drench, ' or . = 'Movimientos: scratch, cut, double-kick, headbutt, tackle, body-slam, take-down, double-edge, tail-whip, poison-sting, bite, growl, supersonic, disable, ice-beam, blizzard, counter, strength, thunderbolt, thunder, dig, toxic, rage, mimic, double-team, defense-curl, reflect, focus-energy, bide, skull-bash, fury-swipes, rest, super-fang, substitute, thief, snore, curse, protect, sludge-bomb, mud-slap, detect, endure, charm, swagger, attract, sleep-talk, return, frustration, pursuit, iron-tail, hidden-power, rain-dance, sunny-day, crunch, rock-smash, beat-up, flatter, facade, helping-hand, secret-power, poison-fang, aerial-ace, poison-tail, shock-wave, water-pulse, natural-gift, toxic-spikes, poison-jab, earth-power, shadow-claw, captivate, hone-claws, venoshock, round, echoed-voice, chip-away, confide, venom-drench, ')]</value>
+      <webElementGuid>89d0b59a-1c54-4f2a-ae98-845f6121cff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

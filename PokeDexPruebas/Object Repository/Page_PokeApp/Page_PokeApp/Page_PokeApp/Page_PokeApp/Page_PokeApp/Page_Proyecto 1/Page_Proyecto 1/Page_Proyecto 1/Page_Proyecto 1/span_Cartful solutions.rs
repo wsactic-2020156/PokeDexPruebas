@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cartful solutions</name>
+   <tag></tag>
+   <elementGuidId>b45e6e86-0e33-4f1a-9e1d-3bd9b56a6dcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.datos-personales</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Datos-personal']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c624644-83b1-44d8-8da1-d00c045062b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datos-personales</value>
+      <webElementGuid>b3602c61-e46f-4f99-96f9-fe3a26cbaf38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cartful solutions</value>
+      <webElementGuid>b5042067-2434-492b-ae69-89eb03377c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Datos-personal&quot;)/span[@class=&quot;datos-personales&quot;]</value>
+      <webElementGuid>ca939c7e-35bd-4e87-b4e9-db11099f73bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='Datos-personal']/span[2]</value>
+      <webElementGuid>a878feb0-a72a-4b1c-816b-3f83ba4a1403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pokedex'])[1]/following::span[1]</value>
+      <webElementGuid>8955e770-cd7e-4b20-9287-51d5e1c9aa1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio'])[1]/preceding::span[1]</value>
+      <webElementGuid>6860a516-72a1-4099-abb4-5eb55d3e502e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::span[1]</value>
+      <webElementGuid>481369ad-e0d0-4214-8dba-111374607052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cartful solutions']/parent::*</value>
+      <webElementGuid>9a5e717e-d67b-4021-91db-c5c38dd84c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>5e67aea0-9ac6-4b82-92db-f4c60b725f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cartful solutions' or . = 'Cartful solutions')]</value>
+      <webElementGuid>0596f945-691e-4e55-b46d-0c37ecf01894</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_ID 2 Nombre ivysaur</name>
+   <tag></tag>
+   <elementGuidId>81792e6d-0abb-4bab-964b-412fdda20221</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/table/tbody/tr[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>12c5dff4-0b29-4922-8fcd-30ebcc404a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card2</value>
+      <webElementGuid>6297df30-11c3-4c30-82cf-e35cfe774bc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ID: 2 Nombre: ivysaur</value>
+      <webElementGuid>99fdce88-ea03-4c30-8254-e635c3794b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/table[1]/tbody[@class=&quot;container&quot;]/tr[@class=&quot;card2&quot;]</value>
+      <webElementGuid>7273af25-4043-4992-b833-5dd734294a0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/table/tbody/tr[2]</value>
+      <webElementGuid>b9205fd3-5c81-413e-ac07-c1976cabae48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]</value>
+      <webElementGuid>7ae96316-c9d5-4977-b0c2-a1abe89a53a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = 'ID: 2 Nombre: ivysaur' or . = 'ID: 2 Nombre: ivysaur')]</value>
+      <webElementGuid>97a844b8-c0f3-4044-ad51-e257012355e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
